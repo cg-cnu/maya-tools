@@ -8,4 +8,4 @@ Maya tools written in Python and Pyside.
 Bake the texture for the given frame range and size.
 
 ### Acknowledgements ###
-Inspired by [Image Sequence Blendshape Baker](http://www.creativegears.com.au/about/ "tool") written by [Michael Yates](http://www.creativegears.com.au/about/ "Michael Yates").
+Texture Baker inspired by [Image Sequence Blendshape Baker](http://www.creativegears.com.au/about/ "tool") written by [Michael Yates](http://www.creativegears.com.au/about/ "Michael Yates").
