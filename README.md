@@ -3,6 +3,11 @@ mayaTools
 
 Maya tools written in Python and Pyside.
 
+### Batch Save Rendered Images ###
+Save all the rendered images in the render window.
+
+### Create Checker Shader ###
+Create a checker shader with the click of a button. Useful for uv checking.
 
 ### Texture Baker ###
 Bake the texture for the given frame range and size.
